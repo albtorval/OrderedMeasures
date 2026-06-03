@@ -38,8 +38,9 @@ gurobipy
 numpy
 networkx
 matplotlib
+```
 
-# Authors
+## Authors
 The article was written by Víctor Blanco (Universidad de Granada), Miguel A. Pozo, Justo Puerto, and Alberto Torrejón (Universidad de Sevilla). All authors contributed equally to this work. Correspondence regarding this repository or the associated paper may be directed to any of the authors via their institutional emails.
 
 For any questions or inquiries regarding this repository, please contact the corresponding author, Alberto Torrejón, at *atorrejon@us.es*.
